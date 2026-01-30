@@ -1,0 +1,873 @@
+DR. A.P.J. ABDUL KALAM TECHNICAL UNIVERSITY 
+LUCKNOW 
+Rules and Regulations 
+For 
+Undergraduate Course 
+(B. Tech.) 
+On 
+AICTE MODEL CURRICULUM 
+(Effective from the Session: 2018-19)
+                       (Revised) 
+Dr. A.P.J. Abdul Kalam Technical University Lucknow 
+MODEL CURRICULUM  ORDINANCE GOVERNING THE DEGREE OF BACHELOR OF 
+TECHNOLOGY (B.Tech.). 
+MODEL CURRICULUM: 
+The Model Curriculum provides flexibility in designing curriculum and assigning credits based on the 
+course content and hour of teaching. The Model Curriculum provides an opportunity for the students to 
+choose courses from the prescribed courses comprising core, elective and open elective courses. The 
+MODEL CURRICULUM provides a cafeteria type approach in which the students can take courses of 
+their choice, learn at their own pace, undergo additional courses and acquired more than the required 
+credits, and adopt an interdisciplinary approach to learning. The courses shall be evaluated on the 
+grading system, which is considered to be better than t he conventional marks system. It is necessary to 
+introduce the grading system to make the uniformity among all technical institutions of India. This will 
+benefit the students to move across institutions within India to begin with and across countries. The 
+uniform grading system will also enable potential employers in assessing the performance of the 
+candidates. In order to bring uniformity in evaluation system and computation of the Cumulative Grade 
+Point Average (CGPA) based on student’s performance in examinations, the AICTE has formulated the 
+guidelines to be followed. 
+DEFINITIONS OF KEY WORDS: 
+(i) University: Dr. APJ Abdul Kalam Technological University, Lucknow (APJAKTU). 
+(ii) Academic Year: Two consecutive (one odd + one even) semesters constitute one academ ic
+year.
+(iii) Semester: Each semester will consist of 15 -18 weeks of academic work equivalent to 90
+actual teaching days. The odd semester may be scheduled from July to December and even
+semester from January to June.
+(iv) Model Curriculum: The Model curriculum provides choice for students to select from the
+prescribed courses (core, elective and Foundation Courses).
+(v) Programme: An educational programme leading to award of a Degree. 
+(vi) Course: Usually referred to, as ‘papers’ is a component of a programme. All courses  need
+not carry the same weightage. The courses should define learning objectives and learning
+outcomes. A course may be designed to comprise lectures/ tutorials/laboratory work/ field
+work/ outreach activities/ project work/ vocational training/viva/ semi nars/ term
+papers/assignments/ presentations/ self-study etc. or a combination of some of these.
+(vii) Branch: Specialization or discipline of B.Tech. Degree Programme, like Civil Engineering,
+Agriculture Engineering, etc.
+(viii) Letter Grade: It is an index of the performance of students in a said course. Grades are
+denoted by letters  A+,A, B+, B, C, D, E and F.
+(ix) Grade Point: It is a numerical weightage allotted to each letter grade on a 10-point scale.
+(x) Credit: A unit by which the course work is measured. It determines the number of hours of
+instructions required per week. One credit is equivalent to one hour of teaching (lecture
+or tutorial) or two hours of practical work/field work per week. 
+(xi) Credit Point: It is the product of grade point and number of credits for a course.
+(xii) Semester Grade Point Average (SGPA): It is a measure of academic performance of
+student/s in a semester. It is the ratio of total credit points secured by a student in various
+courses registered in a semester and the total course credits taken during that semester. It 
+shall be expressed up to two decimal places. 
+(xiii) Yearly Grade Point Average (YGPA): It is a measure of academic performance of
+student/s at the end of the academic year . The formula used to calculate YGPA is given
+in section 14.4 (b). It shall be expressed up to two decimal places. 
+(xiv) Cumulative Grade Point Average (CGPA): It is a measure of overall cumulative performance
+of a student over all semesters  and it will display at the end of the programme . The CGPA is
+the ratio of total credit points earned by a student in various courses in all semesters and the 
+sum of the total credits of all courses in all the semesters. It is expressed up to two decimal 
+places. 
+(xv) First Attempt: If a student has completed all formalities and become eligible to  attend the
+examinations and has attended at least one subject of passing, such attempt (first sitting)
+shall be considered as first attempt. 
+(xvi) Transcript or Grade sheet or Certificate: Based on the grades earned, a grade
+sheet/certificate shall be issued to all the registered students at the end of every academic
+year. The grade sheet/certificate will display the course details (code, title, number of 
+credits, grade secured) along with SGPA of both semesters and YGPA earned till that 
+academic year. Final year grade sheet shall also display the CGPA. 
+The Model curriculum provides choice for students to select from the prescribed courses. 
+Sequencing Plan for the B.Tech. Degree Curriculum 
+Semesters Course Coverage 
+I –II Applied Science Courses and Common Engineering Courses for 
+all Branches; Mandatory Courses 
+III-IV Applied Sciences Courses ( Common for all Branches) and Engineering  
+Core Courses: Core/Elective   
+V-VI Humanities and Mandatory Courses, Engineering Core & Electives 
+Courses; Other Electives; Branch-wise Orientation 
+VII-VIII Engineering Core & Electives Courses; Open Electives; Branch-wise 
+Orientation Electives/Elective; Other Electives, Internship, Project work  
+Credit Structure for Course Work 
+Lectures (hrs/wk/ Sem) Tutorial(hrs/wk/ Sem) Lab.Work (hrs/wk/Sem) Credits 
+3 1 0 4 
+2 1 0 3 
+0 1 0 1 
+0 0 2 1 
+0 0 3 2 
+0 1 3 3 
+0 1 2 2 
+1. ADMISSION
+1.1 Admission to B.Tech. First year in 1st semester and lateral admission i n B.Tech. second year 
+in 3rd semester (for diploma holder/B.Sc. candidates only) will be made as per the rules 
+prescribed by the Academic Council of the Dr. A.P.J.  Abdul Kalam Technical University 
+(APJAKTU) Lucknow. 
+1.2 Admission on migration of a candida te from any other University to the University is not 
+permitted. 
+2. ELIGIBILITY FOR ADMISSIONS
+2.1 Admission to B. Tech. First Year through Entrance Examination: 
+(a) Eligibility for admission to under graduate courses in First year shall be as per guideline s
+of All India Council for Technical Education (AICTE) / Related Council and according to
+the latest U.P. Government notifications/rules.
+2.2 Admission to B.Tech. Second Year through Lateral Entry Scheme: 
+(a) Candidates who have passed 3/4 year Diploma (with  minimum 60% marks) from institutions
+recognized by the U.P. Board of Technical Education in any branch of
+Engineering/Technology except Agriculture Engineering are eligible for admission to Second
+year in any branch of Engineering./Technology except Agriculture Engineering
+(b) Candidates who have passed 3/4 year Diploma (with minimum 60% marks) from institutions
+recognized by the U.P. Board of Technical Education in Agriculture Engineering are only
+eligible for admission to Second year of Agriculture Engineering.
+2.3 Direct admission on vacant seats at institution/college level: The eligibility criteria for direct 
+admission on seats remaining vacant in first year after entrance examination counselling shall 
+be such as may be notified from time to time. 
+2.4 The Academic Council shall have power to amend or repeal the eligibility criteria laid down 
+at clause 2.1. & 2.2, as per the guidelines of AICTE. 
+3. ATTENDANCE
+3.1 Every student is required to attend all the lectures, tutorials, practicals and other presc ribed 
+curricular and co-curricular activities. The attendance can be condoned up to 25% on medical 
+grounds or for other genuine reasons beyond the control of students. 
+3.2 A further relaxation of attendance up to 15% for a student can be given by Head of 
+Institution/college provided that he/she has been absent with prior permission of the Head of 
+the institution/college for the reasons acceptable to him. 
+3.3 No student will be allowed to appear in the end semester examination if he / she do not 
+satisfy the overall average attendance requirements of Clause Nos. 3.1, and 3.2. and such 
+candidate(s) shall be treated as having failed  due to detained and will be further governed by 
+clause no. 4.2 & 4.3 and annexure I. 
+3.4 In each semester, the attendance shall be counted from the date of admission in the college or 
+start of academic session whichever is later. 
+4. DURATION OF COURSES
+4.1 Total duration of the B.Tech. Course shall be 4 years, each year comprising of two semesters.
+Each semester shall normally hav e teaching for the 90 working days or as prescribed by 
+A.I.C.T.E. from time to time.
+4.2 The student admitted to 1st year B.Tech shall complete the course within a period of seven 
+academic years from the date of first admission, failing which he/she has t o discontinue the 
+course. The students admitted under lateral entry scheme (2nd Year B.Tech) shall complete the 
+course within a period of six academic years from the date of first admission, failing which 
+he/she has to discontinue the course.  
+4.3  A candidate, who has failed twice in first year due to any reason (either due to his/her non - 
+appearance or he/she being not permitted to appear in semester examinations) shall not be 
+allowed to continue his/her studies further. Provided further that if a student  wishes to 
+continue third time in first year he/she may be allowed on the terms and conditions laid down by 
+the University for such permission but the maximum time allowed for completing the course 
+will remain the same as in clause 4.2. 
+4.4  The minimum credit requirement for B.Tech  degree is 160 credits. 
+5. CURRICULUM
+5.1 The 4 year curriculum has been divided into 8 semesters and shall include lectures, tutorials, 
+practicals, seminars and projects etc. in addition to industrial training and education al tour 
+etc. as defined in the scheme and executive instructions issued by the University from time to 
+time. 
+5.2 The curriculum will also include such other curricular, co -curricular and extracurricular 
+activities as may be prescribed by the University from time to time. 
+6. CHANGE OF BRANCH
+6.1 Change of branch may be allowed against the vacant seats in the following two stages,
+provided criteria at following sub clauses is satisfied: 
+(a) In first year, after the last date of admission to the B.Tech. I st semester, on the basis of
+merit of entrance examination on vacant seat subject to clause 6.2.
+(b) In the second year, on the basis of merit at the B.Tech. first year examination for those
+who are pass without any carry over paper subject to clause 6.2.
+6.2 After change of branch, number of students in branch(s) shall neither increase over the intake 
+approved by A.I.C.T.E. nor it will decrease below 75% of intake approved by A.I.C.T.E. 
+6.3 Change of branch facility is not applicable to following: -  
+(a) Candidates admitted in B.Tech. Agricultural Engineering/Biotechnology courses.
+(b) Candidates admitted in second year of B.Tech. courses as per clauses 2.2
+6.4 The change of branch if allowed will become effective from B.Tech. IIIrd semester. 
+6.5 The Branch change process must be completed by 30th August of each academic session.
+Further change of branch shall not be permitted. 
+7. CHANGE OF COLLEGE
+7.1 Change of College shall not be permitted.  
+7.2 Change of study center shall not be permitted. 
+8. EXAMINATION
+8.1 The  performance of a student in a semester shall be evaluated through continuous class 
+assessment and end semester examination. The continuous assessment shall be based on class 
+tests, assignments/tutorials, quizzes/viva -voce and attendance. The marks for con tinuous 
+assessment (Sessional marks) shall be awarded at the end of the semester. The end semester 
+examination shall be comprised of written papers, practicals and viva -voce, inspection of 
+certified course work in classes and laboratories, project work, de sign reports or by means of 
+any combination of these methods. 
+8.2 The distribution of marks for sessional, end semester theory papers, practicals and other 
+examinations, seminar, project and industrial training shall be as prescribed. The practicals, 
+viva-voce, projects and reports shall be examined/evaluated through internal and external 
+examiners as and when required. 
+8.3 The marks obtained in a subject shall consist of marks allotted in end semester theory paper 
+and sessional work. 
+9. ELIGIBILITY OF PASSING
+9.1 A student who obtained Grades A + to E shall be considered as passed. If a student secured
+“F” grade, he /she has to reappear for the examination. It is mandatory for a student to earn the  
+required credits as mentioned in each semester. 
+(a) For a pass in a Theory Subject, a student shall secure minimum of 30% of the maximum
+marks prescribed by the University  in the end semester examination  and 40% of
+aggregate marks in the subject including sessional marks. i.e. Minimum Passing Grade is
+“E”.
+(b) For a pass in a Practical/Internship/Project/Viva-voce examination, a student shall secure
+a minimum of 50% of the maximum marks prescribed by the University in the relevant
+Practical/Internship/Project/Viva-voce examination and 40% of marks in the aggregate in
+the Practical/Internship/Project/Viva -voce including sessional marks. i.e. Minimum 
+Passing Grade in a course is “E”. 
+(c) For  a  pass  in  the  subject  which  has  only sessional  component  and No End semester
+exam component, such as Seminar, a student shal l  secure  a  minimum  of  40%  of  the
+maximum  marks  prescribed.  i.e.  Minimum Passing Grade is “E”.
+(d) For a pass in a subject having Theory and Practical component ,  a student shall secure
+minimum of 30% of the maximum marks prescribed by the Universit y in theory
+examination and 50% of marks in practical examination; in addition the student must
+secure 40% of marks in the aggregate  in the  subject including theory, practical, theory
+sessional and practical sessional marks. i.e. Minimum Passing Grade in a course is “E”..
+9.2 The students who do not satisfy the condition 9.1 or the student who remains absent shall be 
+deemed to have failed in that subject and may reappear for the University examination in the 
+subsequent examinations. However, the Sessional marks awarded to the student/s at previous 
+attempt in the concerned subject will be carried forward. 
+9.3 A student may, at his/her desire, opt to abandon his/her performance of a semester in 
+following manner. 
+(a) A student may opt to abandon his/her perfor mance only in end semester examination of
+university for a given semester.
+(b) A student may opt to abandon his/her Total Performance of a Semester which includes
+performance in university end semester e xamination and sessional marks of all theory
+and practical subjects.
+(c) A student may opt to abandon his/her performance in University Examination of any or
+both semesters of the same academic year only.
+(d) A student shall be allowed to abandon the performance maximum twice during the entire
+course of study.
+(e) Performance of a semester, once abandoned, cannot be claimed again.
+9.4 The student, who opts to abandon the performance of a semester as per clause 9.3, shall 
+abandon performance in all the courses of that semester, irrespective of the fact whether the 
+student has passed or failed in any subject of that semester. 
+9.5 A student, who opts to abandon the total performance of the semester including sessional 
+marks as per 9.3(b) and 9.3(c) , has to take readmission for the relevant semester (s). 
+Readmission to the Firs t semester in such cases shall not be considered as fresh admission 
+i.e., the student will continue to have the same University Roll Number, which was allotted
+earlier.
+9.6 The student, who opted to abandon his / her performance only in the university end semester 
+examination of a semester and does not desire readmission, shall be permitted to re -appear 
+for examinations of all the subjects of the semester in the subsequent examinations as an Ex -
+Student. However, the sessional marks obtained by the student in the abandoned semester 
+shall be retained. 
+9.7 Such students who opted to abandon the performance at any stage of his/her study and has cleared 
+any paper in more than one attempt are eligible for the award of DIVISION at the B.Tech. degree 
+level but are not eligible for the award of RANKS and HONOURS degree. 
+9.8 The student who passes a course of a semester as per 9.1 shall not be allowed to appear for 
+the same again, unless he/she opts for abandoning of results as per 9.3-9.7. 
+9.9 A student shall be d eclared to have completed the program of B.Tech.  degree, provided the 
+student has undergone the stipulated course work as per the regulations and has earned at 
+least 160 Credits. 
+10. ELIGIBILITY FOR PROMOTION
+10.1 There shall not be any restriction for p romotion from an odd semester to the next even  
+semester. 
+10.2 For promotion from even semester to the next odd semester (i.e. of the next academic  
+year) the student has secured either of the semester of an academic year is fully cleared 
+or earned the credit greater than or equal to  minimum credit of either of the semester for 
+example. 
+Example 1 
+1. A Student of 1st year earned  10 credit in I semester and 8 credit in II semester. The
+total credit of I semester is 17.5 and II semester is 20.5. 
+Minimum Credit Threshold for Promotion 
+Check Point Credit* Threshold 
+First Year to Second Year     17.5  credits in First Year  
+(I&II sem.) 
+Total credit earned by student is 18(10+8) therefore he / she is eligible for promotion from 
+1st  to 2nd year.
+Example 2 
+A Student of 1st year earned  17.5 credit in I semester and 18 credit in II semester. The 
+total credit of I semester is 17.5 and II semester is 20.5. 
+Minimum Credit Threshold for Promotion 
+Check Point Credit* Threshold 
+First Year to Second Year     17.5  credits in First Year 
+(I&II sem.) 
+His / Her I semester is fully cleared  therefore he / she is eligible for promotion to 2nd year. 
+10.3 In yearly  result,  a  student  shall  be declared  PASS  only if  he/  she secures “E” or above grades
+in all the subjects and  minimum  Semester  Grade  Point  Average (SGPA) of 5.0, in each 
+semester of an academic year. 
+10.4 Student himself can decide to abandon the performance of any or both the semesters of  
+same academic year as per clause 9.3 and reappear in aban doned semester examination 
+as per clauses 9.4, 9.5 & 9.6. 
+11. Carry over System
+11.1 Following rules shall be followed for carry over papers: 
+(a) A   candidate   who   satisfies   the  requirements of clause 9.1  (a)  and 9.1 (b) will be required to
+appear in those theory papers / practical during respective  end  semester  exams  in  which he/she
+failed.
+(b) A candidate satisfying clause 9.3 (a)  shall be required to appear in theory  papers / practical
+examination to fulfil  the  requirements  of  clause 9.1(a) and 9.1 (b).
+(c) A  candidate  shall  be  required  to  exercise his/her choice of minimum  theory papers in which
+he/she desires  to  appear  in  the  examination  for  improvement of SGPA to fulfil the
+requirements of clause 10.3.
+(d) Candidate appearing for carry ove r paper in any semester shall be examined with the
+examination paper of that subject running in that semester.
+11.2 All carryover examinations shall be held only with end semester examination.  
+.  
+12. RE-ADMISSION IN THE INSTITUTION/ COLLEGE
+A candidate may be allowed for re -admission provided he/she satisfies one of the following
+conditions:
+(a) A candidate is declared fail.
+(b) A candidate did not appear in a semester examination / or he/she was not granted
+permission to appear in the examination.
+(c) A candidate has been detained by the institute and subsequently has been permitted to
+take re-admission.
+(d) A candidate has own desire to abandon  the performance of semester(s) as stated in
+clause 9.3 (b)  and 9.3 (c).
+13. COURSES
+13.1There will be four types of courses. 
+(i) Foundation Courses: The Foundation Courses are of two kinds: Compulsory Foundation
+and Elective foundation.
+“Compulsory Foundation”: These courses are the courses based upon the content that
+leads to Knowledge enhancement. They are mandatory for all disciplines.
+“Foundation Electives”: These are value based courses aimed at man making education.
+(ii) Core Courses: This is the course which is to be compulsorily studied by a student as a
+core requirement to complete the requirements of a program in a said discipline of study.
+(iii) Elective Courses: This is course, which can be chosen from the pool of papers. It may be
+supportive to the discipline/ providing extended scope/enabling an exposure to some
+other discipline / domain / nurturing student proficiency skills.
+(iv) Mandatory Courses: These courses are mandatory for students joining B.Tech. Program
+and students have to successfully complete these courses before the completion of
+degree.
+13.2 The minimum number of students to be registered for an Elective to be offered shall be 
+not less than twenty. 
+13.3 A student shall exercise his option in respect of the electives and register for the same at 
+the beginning of the concerned semester. The student may be permitted to opt for change 
+of elective subject within 15 days from the date of commencement of the semester as per 
+the calendar of the University. 
+14. COMPUTATION OF SGPA, YGPA AND CGPA
+14.1 The Dr. A.P.J.Abdul Kalam Technical University ( APJAKTU) Lucknow adopts absolute 
+grading system   wherein   the   marks   are converted   to grades and  every semester 
+results will be declared with semester grade point average (SGPA).  Yearly  Grade  Point 
+Average (YGPA) shall be calculated at  each  year  by  calculating  from the formula 
+given in section 14.4 (b)   of  an  academic  year. The Cumulative Grade Point Average 
+(CGPA) shall be calculated at the  end of last semester of the program. The grading 
+system is with the following letter grades and grade points scale as given below: 
+Level Outstanding  Excellent Very 
+Good 
+Good Above 
+Average 
+Average Poor Fail 
+Letter A+ A B+ B C D E F 
+Grade 
+Grade 10 9 8 7 6 5 4 00 
+Points 
+Score ≥ 90 <90 <80, <70, <60 <50, <45, < 40 
+(Marks) ≥70 ≥60 ,≥50 ≥45 ≥40 
+Range 
+14. 2
+(a) A student obtaining Grade ‘F’ in a subject shall be considered failed in that subject and
+will be required to reappear in  the examination.  Such students after passing the failed
+subject in subsequent examination(s) will   be   awarded   with   grade according to
+marks he/she scores in the subsequent examination(s).
+(b) If a student’s SGPA in a semester is less than 5 to be de clared pass in that semester as
+laid down by clause 10.3 of the ordinance, he/she shall be allowed to appear in the
+improvement examination of the theory subjects of that semester. Such student after
+passing the said subjects in subsequent examination(s) w ill be awarded with grade
+according to marks he/she scores in the subsequent examination(s).
+14.3 
+(a) The University has right to scale/moderate the theory exam/practical exam/sessional
+marks of any subject whenever required for converting of marks in to let ter grades on
+the basis of the result statistics of university as in usual practice.
+(b) The modality for moderation of marks before the declaration of result shall be decided
+by a committee of Pro -Vice Chancellor, Dean UG, Assoc. Dean UG and Controller of
+Examination.
+(c) The modality for moderation of marks if needed after the declaration of result shall be
+decided by a committee of Pro -Vice Chancellor, Dean UG, Assoc. Dean UG,
+Controller of Examination and an external member not below the rank of Professor
+nominated by the Vice Chancellor.
+(d) If the candidate(s) appeared in the examination but theory marks are not available due to
+missing of copy by any reason, the average marks may be awarded as decided by the
+committee mentioned in 14.3(a). In case of missing/u navailable of sessional marks,
+Controller of Examination can take decision as per the provision laid down by the
+Examination Committee.
+(d) The Committee defined in14.3 (a) shall also fix up the responsibility and recommend
+the punishment for occurrence of such case(s) in14.3(c).
+(e) All the matters defined under 14.3(a) to 14.3 (d) shall be executed subject to the
+approval of Academic Council of the APJAKTU.
+14.4 Computation of SGPA, YGPA and CGPA 
+The following procedure to compute the Semester Grade Point Average (SGPA), Yearly Grade 
+Point Average (YGPA) and Cumulative Grade Point Average (CGPA): 
+(a) The SGPA is the ratio of sum of the product of the number of credits with the grade points
+scored by student in all the courses taken by a student and the sum of th e number of
+credits of all the courses undergone by a student, i.e SGPA (Si) = Σ (Ci x Gi) / ΣCi where
+Ci is the number of credits of the ith course and Gi is the  grade point scored by the
+student in the ith course.
+(b) The YGPA(Yearly Grade Point Average) is calculated at end of each year as:
+YGPA= (SGPA(odd) * ∑Ci(odd)+ SGPA(even) * ∑Ci(even) / (∑Ci(odd) + ∑Ci(even))  
+ 
+(c) The CGPA is also calculated in the same manner taking into account all the courses 
+undergone by a student over   all   the   semesters   of   a programme, i.e. CGPA = Σ (Ci 
+x Si) / Σ Ci where Si is the SGPA of the ith semester and Ci is the total number of 
+credits in that semester. 
+ 
+(d) The SGPA shall be calculated at end  of  each  semester  and  YGPA shall  be  calculated  
+at  the  end  of each academic year. CGPA shall be calculated   at   the   end   of   last 
+semester of the Program and shall be rounded off to 2 decimal places and reported in the 
+transcripts / grade Sheet. 
+ 
+Illustration for Computation of SGPA, YGPA and CGPA 
+ 
+Computation of SGPA of odd semester Illustration No.1 
+ 
+Course Credit Grade letter Grade point 
+Credit Point 
+(Credit x Grade) 
+Course 1 5.5 B+ 8 5.5x8 = 44 
+Course 2 4 C 6 4x6 = 24 
+Course 3 5 B 7 5x7 = 35 
+Course 4 3 A+ 10 3x10= 30 
+Total 17.5   133 
+ 
+Thus, SGPA= 133/17.5 =7.6   
+Computation of SGPA of even semester Illustration No.2 
+ 
+Course Credit Grade letter Grade point 
+Credit Point 
+(Credit x Grade) 
+Course 1 5.5 B+ 8 5.5x8 = 44 
+Course 2 4 C 6 4x6 = 24 
+Course 3 5 B 7 5x7 = 35 
+Course 4 3 A+ 10 3x10= 30 
+Course 5 3 F 0 3x0= 00 
+Total 20.5   133 
+ 
+Thus, SGPA= 133/20.5 =6.48 
+YGPA= (SGPA(odd) * ∑Ci(odd)+ SGPA(even) * ∑Ci(even) / (∑Ci(odd) + ∑Ci(even)) 
+Thus, YGPA = 7.6 * 17.5+6.48 *20.5 / (17.5 +20.5) = 6.99 
+ 
+Illustration No.2a 
+ 
+Course Credit Grade letter Grade point 
+Credit Point 
+(Credit x Grade) 
+Course 5 3.0 E 4 3.0 x 4 = 12 
+ 
+Ci (First Attempt) + Ci (Subsiquent Attempt) = 133 + 12 = 145 
+Thus SGPA= 145/20.5 = 7.07 
+CGPA after Final Semester 
+Semester I II III IV V VI VII VIII 
+Credit 17.5 20.5 21.0 21.0 21.0 21.0 20 18.0 
+SGPA 7 8.5 9.2 6.86 8.18 7.73 8.68 9.4 
+Thus, CGPA= (17.5 x7 + 20.5 x8.5 + 21x9.2 + 21 x6.86 + 21 x8.18 + 21 x7.73 + 20 x8.68 + 
+18x9.4)/160 =8.66 
+14.5 Grade sheet:  Based on the above recommendations on Letter grades, grade points, SGPA of 
+each semester and YGPA of an academic year , a consolidated grade sheet indicating 
+performance in a particular academic year.   
+14.6 CGPA (calculated at the end of the last semester of the program) shall be issued. 
+15. CONVERSION OF CGPA INTO PERCENTAGE
+Conversion formula for the conversion of CGPA into Percentage is (CGPA) x 10 = 
+Percentage of marks scored. 
+16. AWARD OF DIVISION, RANK AND MEDALS
+16.1 Division and CGPA shall be awarde d only after   the   eighth   and   final   semester 
+examination based on integrated performance of the candidate for  all the eight semesters 
+(six semesters for lateral entry) as per following details. 
+(a) After successful completion of 160 credits, a student shall be eligible to get under
+graduate degree in engineering /technology. A student will be eligible to get
+undergraduate degree with honours only, if he/ she voluntary completes additional
+University recommended courses only (equivalent to 20 credits offered by NPTEL of 4
+weeks, 8 weeks and 12 weeks shall be of 2, 3 and 4 credits respectively) through
+MOOCs. For regist ration to MOOCs courses, the students shall follow NPTEL site
+http://nptel.ac.in/ as per the NPTEL policy and norms. These students can register for
+their courses through NPTEL directly as per the course offering in odd/even semesters at
+NPTEL. The registration fees will be borned by the student.  These NPTEL courses
+(recommended by the university) may be cleared during the B.Tech degree program (not
+necessary one course in each semester). After successful completion of t hese MOOCs
+courses the students, shall, provide their successful completion NPTEL status/
+certificates to the university (COE) through their college of study only. The student shall
+be awarded First division with Honours  Degree only if he/she secures 7.50 or above 
+CGPA and passed each subject of that degree program in single attempt without any 
+grace marks , without any gap  along with successful completion of MOOCS based 
+course of 20 credits.  
+(b) The student shall be awarded First division with Distinction   Degree only if he/s he 
+secures 7.50 or above CGPA and passed each subject of that degree program in single 
+attempt without any grace marks and without any gap. 
+(c) A candidate who qualifies for the award of the degree by securing E or above grades in 
+all subjects of all the semesters (eight semesters/six semesters ) as applicable, an d 
+secures CGPA less than 7.5 and greater than or equal to 6.5 shall be declared to have 
+passed the examination in FIRST DIVISION. 
+(d) All other candidates who qualify for the award of degree  by securing E or above grades in all 
+subjects of all semesters (eight semesters/six semesters as applicable) and secures CGPA below 
+6.5 and greater than or equal to 5.0 shall be declared to have passed the examination in 
+SECOND DIVISION. 
+ 
+16.2 For award o f ranks in a branch, a minimum of 10 students should have appeared in the 8th 
+semester examination. The total number of ranks awarded shall be 10% of total number of 
+students appeared in 8th semester or 10 students, whichever is less in that branch. 
+ 
+Illustration: 
+ 
+1. If 1028 students appeared for the 8th semester in Electronics and Communication Engineering 
+Branch, the number of ranks to be awarded for Electronics and Communication Engineering will 
+10. 
+ 
+2. If 90 students appeared for the 8th semester in Biomedical Engineering Branch, the number of 
+ranks to be awarded for Biomedical Engineering will be 09. 
+ 
+For award of rank in a branch of Engineering / Technology, the CGPA secured by the student 
+from  
+(a) 1st to 8th semester for the students admitted to B.E./B.Tech. Program from 1st year, and  
+(b) 3rd to 8th semester for the students admitted to B.E./B.Tech. Program from 2nd year 
+(Lateral Entry) 
+shall be considered.  
+A student shall be eligible for a rank at the time of award of degree in each branch of 
+Engineering / Technology, provided the student 
+(a) Has passed 1st to 8th (students joining from 1st semester) or 3rd to 8th (in case of 
+lateral entry) semester in all the subjects in first attempt only 
+(b) Has not repeated/rejected any of the lower semesters. 
+ 
+If two students get t he same CGPA, the tie should be resolved by considering the number of 
+times a student has obtained higher SGPA; but, if it is not resolved even at this stage, the number 
+of times a student has obtained higher grades like A +, A, B+, B etc shall be taken into account in 
+rank ordering of the students in a program. 
+ 
+16.3 The Gold, Silver and any other Medals as decided by the university shall be awarded to 
+students falls in the top ranks of various courses as per university rules. 
+ 
+17. SCRUTINY AND RE-EVALUATION 
+ 
+17.1 Scrutiny and re-evaluation shall be allowed in only theory papers.  
+17.2 Revaluation of theory/practical papers is permitted only with certain conditions as laid 
+down by university. 
+ 
+18. UNFAIR MEANS  
+Cases of unfair means shall be dealt as per the  rules and regulations of the University  
+(ANNEXURE-II). 
+ 
+19. AWARD OF SESSIONAL MARKS 
+ 
+Sessional marks for theory subjects, practicals and project shall be awarded as prescribed and at 
+present the break-up of sessional marks shall be as follows:  
+(a) Theory Subjects :  
+(i) Class test which will comprise 30 % of total theory marks with two mid -term tests of 
+equal weightage. 
+(ii) Teacher Assessment Tutorial/Assignment/ Quizzes/ Attendance comprises 20% of 
+total theory marks. 
+(b) Practicals,  
+(i) Two mid-term viva-voce/tests of equal weightage 30% of total Practical marks.  
+(ii) Teacher Assessment: Lab, Record/ Attendance 20% of total Practical marks.  
+(c) Make-up test may be held only for those students who could not appear in any one of 
+mid-term class tests due to genuine reasons for which the prior permission from the Head 
+of Institution/College was taken. Make up test shall ordinarily be held about two weeks 
+before the semester examination. The syllabus for the make -up test shall be the whole 
+syllabus covered by the subject teacher upto that time. 
+ 
+20. AWARD OF SEMINAR INDUSTRIAL TRAINING, EDUCATIONAL TOUR 
+MARKS AT INSTITUTION/COLLEGE LEVEL 
+ 
+20.1 The marks of Seminar, Industrial Training, Educational tour marks shall be awarded on the 
+following basis:  
+(i) Write-up / Report 50%  
+(ii) Presentation 50% 
+ 
+20.2 The marks in Seminar, Industrial Training and Educational Tour shall be awarded by a 
+committee consisting of following members: 
+(i) Head of the Department or his/her nominee. 
+(ii) Concerned Officer – Incharge.  
+(iii) Senior Faculty Member of the department nominated by the Head of Department. 
+ 
+21. CANCELLATION OF ADMISSION 
+ 
+The admission of a student at any stage of study shall be cancelled if :  
+(a) He / She is not found qualified as per AICTE / State Government norms and 
+guidelines or the eligibility criteria prescribed by the University. or 
+(b) He / She is found unable to complete the course within the stipulated time as 
+prescribed in clause 4.2 or 
+(c) He / She is found involved in creating indiscipline in the Institution / College or in the 
+University.  
+(a) The Academic Council shall have the power to relax any provision provided in the 
+ordinance in any specific matter/situation subject to the approval of Executive Council of the 
+University. 
+ 
+ANNEXURE-I 
+ 
+ STATUS OF DETAINED STUDENTS 
+ 
+1. Following amendments have been approve d for status of detained students in any 
+semester 
+ 
+(a) An academic year consists of two semesters (Odd and Even semester) comprising of 15 
+to 18 weeks of academic work equivalent to 90 actual teaching days. Attendance of the 
+student shall be counted from the d ate of admission in the college or start of academic 
+session whichever is later in a given semester. 
+(b) Students detained in ODD semester shall be given an option to choose either to 
+discontinue the study in Even semester and abandon the entire academic year (both 
+semester) as laid down in clause 9.3 and repeat the entire year course in the next 
+academic year OR to abandon only the ODD semester as laid down in section 9.3 of the 
+ordinance. If the student chooses to Abandon the relevant semester only, he/she sh all be 
+further governed by the clause 9.4 and 9.5 of the ordinance. 
+(c) If such a student abandons only the ODD semester performance and prefers to study in 
+EVEN semester and attains the minimum credits to meet the eligibility for promotion as 
+given in clause 10.2 (From the performance of only EVEN semester), he/she then have to 
+study only the ODD semester (in which the student was detained) in the subsequent 
+academic year as a re -admitted student. If he fails to get minimum credits required for 
+promotion in EVEN semester he will be considered FAIL in entire year and will have to 
+repeat both semester in the subsequent year. 
+(d) Students detained in EVEN semester shall be given an option to choose either to abandon 
+the entire academic year (both semester) as laid dow n in clause 9.3 and repeat the entire 
+year course in the next academic year OR to abandon only the EVEN semester as laid 
+down in section 9.3 of the ordinance. If the student chooses to Abandon the relevant 
+semester only, he/she shall be further governed by  the clause 9.4 and 9.5 of the 
+ordinance. 
+(e) If such a student abandons only the EVEN semester performance then it will be verified 
+whether he/she has attained the minimum credits required to be promoted to next year as 
+given in clause 10.2 (From the performa nce of only ODD semester). If he/she did then 
+he/she have to study only the EVEN semester (in which the student was detained) in the 
+subsequent academic year as a re -admitted student. Otherwise he/she will be considered 
+fail in entire year and will have to repeat both semester in the subsequent year. 
+For example: 
+If a student is detained in 3 rd semester of academic session 2019-20, he shall be allowed to study 
+4th semester as given in clause10.1. If the student scores 2 1 credit in 4 th semester then he fulfills 
+the promotion criteria laid down by clause 10.2. He shall then take admission as re -admitted 
+student in academic session 20 20-21 in 3 rd semester and complete the requirements of 3 rd 
+semester in odd semester of 20 20-21. After the odd semester examinati on his 2 nd year result 
+(YGPA) shall be declared. However, the student can take admission in 5 th semester only in the 
+next academic year i.e. 20 21-22. Similarly, if a student is detained in 4 th semester of academic 
+session 201 9-20 and if the student has sco red 2 1 credit in 3 rd semester then he fulfils the 
+promotion criteria laid down by clause 10.2. He shall then take admission in 4 th semester as re -
+admitted student in academic session 20 20-21 in 4th semester and complete the requirements of 
+4th semester in even semester of 2020-21. After the even semester examination his 2 nd year result 
+(YGPA) shall be declared. However, the student can take admission in 5 th semester only in the 
+next academic year i.e. 2021-22. 
+ 
+2. Method to convert the of results of student s who were admitted in non MODEL 
+CURRICULUM system however due to failing in any year now studying as re -admitted 
+student in MODEL CURRICULUM system. 
+It was proposed that the old examination of result of such students shall be converted to grading 
+system by the computation of SGPA, YGPA and CGPA methods as laid down in section 14.1 
+and 14.4 of the MODEL CURRICULUM ordinance implemented in University since academic 
+year 2016 -17. However, if a student who was declared PASS is old system and as per the 
+calculation of MODEL CURRICULUM system if the SGPA of the student falls below 5.0, such 
+student shall be exempted from minimum criteria of SGPA in a given semester. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE-II 
+ 
+INSTRUCTIONS AND PENALTY FOR USE OF UNFAIR MEANS 
+Procedure to be followed by the invigilator / centre superintendent / observer in case of unfair 
+means:  
+1. As soon as any case of unfair means comes to the notice of the Invigilator, he/she shall 
+bring it to the notice of the Examination Canter Superintendent of the examination centre 
+as well as the Observer appointed by the University. 
+2. The invigilator shall take possession of the Answer Book of the candidate along with 
+paper or other material found in his possession and immediately provide the candidate a 
+second Answer Book.  
+3. The Superintendent shall record the time when the case was brought to his notice.  He 
+shall also record the time of issue on the second Answer Book . “(A): UFM-Main Answer 
+Script” should be written on the page cover of the main answer script and “(B): UFM -
+Second Answer Script” on the cover page of the second answer book. 
+4. The Invigilator, who detects the use of UFM by a candidate, shall also record his 
+statement about the UFM case on specified UFM format.  
+5. Centre Superintendent shall also give his statement in specified UFM format. 
+6. The statements of Invigilator and Centre Superintendent shall be in presence of the 
+observer and shall also submit his / her statement about the incident on the specified 
+format.  
+7. In case the candidate refuses to give his statement, he sh ould NOT BE forced to do so, 
+only the fact of his refusal and the time of occurrence of the incident should be recorded 
+by the Invigilator/s on duty. The statement of the candidate if any and the statement of 
+the Invigilator/s are attested by the Centre S uperintendent and countersigned by the 
+observer. 
+8. The Examination Cent er Superintendent / Observer shall also provide the details of the 
+UFM case to the control room of the University though E-mail ONLY.  
+9. In case a student is found to have written something on the body part a photo of same 
+may be taken on the web cam available etc., if possible. 
+10. No extra time will be given for completing the Examination as a result of this procedure. 
+11. After the Examination is over, both of the answer books marked as A (confisc ated copy) 
+and B (freshly issued copy) along with the material found in possession and 
+COMPLETELY filled and signed the prescribed FORM and COUNTERSIGNED BY 
+THE OBSERVER SHALL BE SEND IN SEPARATE ENVELOPE MARKED UFM TO 
+THE OFFICE OF THE CONTROLLER OF EXAMINATION OF UNIVERSITY. 
+12. In case a candidate has smuggled out an Answer Book, the Centre Superintendent should 
+call the student directly and try to secure the Answer Book.  In case of non availability of 
+the Answer Book, the matter should be reported to the p olice and a copy of the FIR are 
+sent to the office of the Controller of Examination along with the statement of the 
+Invigilator present in the room , statement of the observer and also of the candidate  (if 
+candidate is available).  
+13. In case of impersonation,  the Centre Superintendent shall report the matter to the 
+POLICE. Center superintendent shall also report the incident to the Controller of 
+Examination of the University along with the detailed report with necessary documents 
+duly countersigned by the observer.  
+14. In cases of misconduct of serious nature, the matter should be reported to the police, if 
+necessary.  Statement of the Invigilator/s and that of the other concerned (e.g. Security 
+person etc.) may be obtained and sent to the office of the Controller of Examination.  
+15. In case of electronic gadgets , the clear photocopy of that from front and back, and the 
+enlarged photocopy of the screen shot / the printout of the material stored in the 
+electronic gadgets duly signed by the candidate, invigilator, Cente r Superintendent, and 
+countersigned by observer MUST be attached with UFM report. The electronic gadgets 
+need NOT to be sent to the University. 
+CONVENING OF COMMITTEE ON UNFAIR MEANS: 
+ 
+A Committee (Standing Committee) appointed by the Vice-Chancellor shall enquire into cases of 
+unfair means in the Examination. The student who is involved in UFM cases will be given a 
+chance to submit their representation to the committee, if they want, during a period as specified 
+via circular by the office of the Controller  of Examination. The Committee shall thoroughly 
+examine the cases on the basis of the material / documents placed and student report (if any). The 
+committee shall submit its recommendations after laying down clearly the nature of the offence 
+to the Vice Chancellor for consideration and necessary orders. 
+ 
+TABLE SHOWING PUNISHMENT DETAILS FOR UNFAIR MEANS W. E. F. FROM 
+EVEN SEMESTER OF SESSION 2017-18 OF THE UNIVERSITY:  
+ 
+A 1. Doesn’t follow the instructions given by the Center 
+Superintend / Invigilator. 
+Warning will be issued to the candidate 
+not to repeat in future. If repeated, 
+CONCERNED PAPER will be 
+awarded ZERO marks or “F” grade.  
+ 
+2. Communicates with another examinee or try to pass on 
+information even after a word of caution from the 
+invigilator or any competent authority. 
+ 3. Any sort of writing on the question paper except the Roll 
+No. at the given space.  
+ 
+4. Any exam relevant literature found near or just beneath 
+his/her seat but he/she has not copied from the said 
+material as ascertained by the Center Superintend / 
+Observer / invigilator.  
+ 5. Use of indecent or abusing words in the answer book. 
+ 6. Attempts to remove Encrypted code / Bar Code or any 
+sticker from the answer book. 
+ 7. Indulges in writing the matter relevant to subject before 
+commencement of examination 
+ 8. Attempts oral communication with another examinee 
+ 9. Indecent behaviour at the examination centre or in the 
+examination hall 
+B 
+1. If the examinee is found in possession notes, chits, answer 
+book of any other examinee, etc. however he/she has not 
+written from the said material in his/her answer book 
+Cancellation of result of 
+CONCERNED PAPER and will be 
+awarded ZERO marks or “F” grade in 
+that paper.  2. Deliberately reveals his identity or intentionally makes 
+some irrelevant symbols, sketches etc. in the answer book 
+which may reveal his identity. 
+ 
+3. Possess any sort of exam relevant material in the 
+examination hall or even outside the examination hall like 
+toilet, lobby etc. or tries to contact any unauthorized 
+person during the exam timings 
+ 
+4. Brings any electronic gadgets (except memory less 
+scientific calculator if permitted in that paper) in the 
+examination hall.  
+ 
+5. Attempts to bribe the examiner by mentioning address, 
+contact detail, Mobile No. etc. or to contact the examiner 
+directly or through any representative for his/her favor 
+ 6. Any sort of writing on the question paper regarding 
+solution of the questions. 
+C 
+1. Examinee has copied from the subject exam relevant 
+material, Scribble on chits, compass box, calculator, pad, 
+cloth, handkerchief, dress or any part of the body or stored 
+in electronic-gadgets including mobile-phone. 
+Cancellation of result of the 
+CONCERNED PAPER and two other 
+paper in which the candidate has 
+secured the minimum marks 
+percentage among the rest of the papers 
+except the paper in which candidate 
+has UFM.  That is total three papers 
+will be awarded ZERO marks or “F” 
+grades. 
+ 2. Examinee has indulged in exchange of answer book with 
+other examinee. 
+ 
+3. Examinee has copied from another examinee or 
+deliberately allows other examinee to copy from his own 
+answer book or pass on the exam relevant material or 
+literature in any form to another examinee in exam hall. 
+ 
+4. If the examiner find some written/printed papers etc. of 
+exam related material from the answer book of an 
+examinee 
+ 
+5. Attempts to get rid of or to destroy any kind of exam 
+relevant prohibited material with which he is caught or 
+helps other in such an act 
+ 
+6. Examinee is found to throw away his answer book, 
+supplementary, question paper, practical job or part 
+thereof 
+ 
+7. If examinee is found to have torn the answer book, 
+question paper, any other exam related material or part 
+there of his/her own or other examinee 
+ 8. If the examiner reports that in the examinee's answer book 
+is written with more than one type of hand writing  
+ 9. If the examiner reports about missing pages or additional 
+pages in the answer book of examinee 
+ 10. If the examinee obstructs the process of conducting the 
+examination in any way. 
+ 
+11. If the examinee tries to destroy the evidence by chewing 
+the chit or in any other manner, which was found in his 
+possession during examination 
+ 12. If the examinee attempt to bribe by way of Keeping 
+currency notes in his/her answer book 
+ 13. If the examination committee is satisfied from the report 
+of the examiner that the candidate has copied from one 
+another or from any other sources or involving in mass 
+copying during the examination. 
+ 
+14. Possess any sort of exam relevant material written/printed 
+compass box, calculator, pad, cloth, hand kerchief, dress 
+or any part of the body or stored in electronic-gadgets 
+including mobile-phone. in the examination hall or even 
+outside the examination hall like lobby etc. 
+D 1. If the examinee obstructs/threatens orally or assaults the 
+invigilator or any competent authority on exam duty. 
+Cancellation of result of the all the 
+theory papers in that semester (all the 
+theory papers in that semester will be 
+awarded ZERO marks or “F” grades). 
+ 2. Tries to bring duly written answer book or supplementary 
+from outside 
+ 
+3. If the examinee is found with bulk material like book, note 
+book, and short notes etc. related with the concerned 
+paper.  
+E 1. If person impersonates as examinee and if this is detected 
+during or after the examination. 
+Cancellation of result of the all the 
+theory papers and practical 
+examination in that semester will be 
+cancelled. (All the theory and practical 
+papers will be awarded ZERO marks or 
+“F” grades in that semester).  
+ 
+2. If the examinee carries away an answer book, 
+supplementary or practical job or part thereof outside the 
+exam hall. 
+ 3. Leaves the examination hall without submitting his answer 
+book or tries to destroy it. 
+ 
+4. If the examinee is not appearing in that particular 
+examination but who is a candidate of other examination 
+of the university behaves in an indiscipline manner during 
+particular examination or helps other examinee in using 
+unfair means.   
+F 1. Possesses Gun, Revolver, Knife or any other prohibited 
+weapon in or around exam hall. 
+Cancellation of result of the all the 
+theory papers and practical 
+examinations (i.e. the papers and 
+practical examination will be awarded 
+ZERO marks or “F” grades) in that 
+YEAR and candidate has to repeat that 
+session.    
+ 2. Physically assaulting invigilator or any competent 
+authority on exam duty. 
+G. 
+1. (In a Carryover Paper). If unauthorized material is found 
+with the candidate in bulk such as books, huge cheating 
+material, etc. which shows the clear intention of copying.    
+The candidate shall be awarded zero 
+marks or ‘F’ grade in that Carryover 
+paper and will not be allowed to appear 
+in that paper for next one year. 
+H. 
+1. If during the examination or afterwards any examinee is 
+found to have indulged in unfair means other than 
+specified in A to G as above and which has been bearing 
+on the examination or result of the examinee and/or any 
+other examinee. 
+The examination committee shall 
+decide the penalty depending upon the 
+nature and complexity of involvement 
+of the examinee is concerned on case to 
+case basis. 
+ 
+The result of the student will be declared after implementation of the decision  of examination 
+committee. 

@@ -1,0 +1,20 @@
+# -------- Core ingestion --------
+pypdf
+requests
+beautifulsoup4
+
+# -------- Text processing --------
+regex
+
+# -------- Embeddings --------
+sentence-transformers
+torch
+
+# -------- Vector database --------
+chromadb
+
+# -------- LLM client --------
+requests
+
+# -------- Utilities --------
+tqdm
