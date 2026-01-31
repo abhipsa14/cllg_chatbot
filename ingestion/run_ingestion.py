@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import uuid
 
-from pdf_ingestor import ingest_pdf
+from pdf_ingestor import ingest_file
 from web_ingestor import ingest_web
 from normalizer import normalize_text
 from chunker import chunk_text
@@ -48,25 +48,30 @@ all_chunk_texts = []
 
 # ----------- PDF INGESTION ----------- #
 
-for pdf in PDF_DIR.glob("*.pdf"):
-    raw_text = ingest_pdf(pdf)
+for pattern in ["*.pdf", "*.txt", "*.docx", "*.doc"]:
+    for file in PDF_DIR.glob(pattern):
+        raw_text = ingest_file(file)
+        
+        if not raw_text.strip():
+            print(f"Skipping empty file: {file.name}")
+            continue
 
-    save_text(EXTRACTED_PDF_DIR / f"{pdf.stem}.txt", raw_text)
+        save_text(EXTRACTED_PDF_DIR / f"{file.stem}.txt", raw_text)
 
-    normalized = normalize_text(raw_text)
-    save_text(NORMALIZED_PDF_DIR / f"{pdf.stem}.txt", normalized)
+        normalized = normalize_text(raw_text)
+        save_text(NORMALIZED_PDF_DIR / f"{file.stem}.txt", normalized)
 
-    chunks = chunk_text(normalized, CHUNK_SIZE, CHUNK_OVERLAP)
+        chunks = chunk_text(normalized, CHUNK_SIZE, CHUNK_OVERLAP)
 
-    for chunk in chunks:
-        chunk_obj = {
-            "chunk_id": str(uuid.uuid4()),
-            "text": chunk,
-            "source_type": "pdf",
-            "source": pdf.name
-        }
-        all_chunks.append(chunk_obj)
-        all_chunk_texts.append(chunk)
+        for chunk in chunks:
+            chunk_obj = {
+                "chunk_id": str(uuid.uuid4()),
+                "text": chunk,
+                "source_type": file.suffix.lstrip("."),
+                "source": file.name
+            }
+            all_chunks.append(chunk_obj)
+            all_chunk_texts.append(chunk)
 
 # ----------- WEB INGESTION ----------- #
 

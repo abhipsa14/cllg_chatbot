@@ -1,0 +1,19 @@
+Question: Hi
+Answer: Hello, I'm United Picar-x. How can I help you?
+
+Question: Other than sources.
+Answer: Thank you for asking, but the question is beyond my knowledge, will be happy to know it, though.
+
+Questions: Who is HOD of Computer Science Department?
+Answer: Head of Department of Computer Science Department is Dr. Amit Kumar Tiwari.
+
+Questions: Who is HOD of Electronics Department?
+Answer: Head of Department of Electronics Department is Mr. Amitabh Srivastava.
+
+Questions: Who is Cultural Head?
+Answer: Clutural head of UIT is Mr. Ankit Kumar Gupta.
+
+Question: Who is CRC Head of UIT?
+Answer: Mrs. Shruti Sharma Ma'am.
+
+

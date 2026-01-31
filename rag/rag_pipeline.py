@@ -1,38 +1,30 @@
 from vector_db.retriever import Retriever
-import subprocess
+from llm.ollama_client import call_ollama
 
 retriever = Retriever()
 
-PROMPT_TEMPLATE = """
-You are a college regulation assistant.
+PROMPT_TEMPLATE = """You are a helpful college information assistant for UIT (University Institute of Technology).
 
-Answer ONLY using the context below.
-If the answer is not found, say:
-"Not mentioned in official college sources."
+INSTRUCTIONS:
+1. Answer the question ONLY using the provided context below.
+2. If the answer is not in the context, respond: "I couldn't find this information in the official college sources."
+3. Be concise, accurate, and helpful.
+4. Format your answer clearly with proper structure.
 
-Context:
+CONTEXT FROM OFFICIAL SOURCES:
+---
 {context}
+---
 
-Question:
-{question}
+QUESTION: {question}
 
-Answer in plain text.
-"""
-
-def ask_llm(prompt: str) -> str:
-    result = subprocess.run(
-        ["ollama", "run", "smollm2"],
-        input=prompt,
-        text=True,
-        capture_output=True
-    )
-    return result.stdout.strip()
+ANSWER:"""
 
 def answer_question(question: str) -> str:
-    contexts = retriever.retrieve(question)
+    contexts = retriever.retrieve(question, top_k=5)
 
     context_text = "\n\n".join(
-        f"- {c['text']}" for c in contexts
+        f"[Source: {c['source']}]\n{c['text']}" for c in contexts
     )
 
     prompt = PROMPT_TEMPLATE.format(
@@ -40,4 +32,4 @@ def answer_question(question: str) -> str:
         question=question
     )
 
-    return ask_llm(prompt)
+    return call_ollama(prompt)

@@ -5,10 +5,11 @@ from llm.ollama_client import call_ollama
 retriever = Retriever()
 
 def chat(question: str) -> str:
-    contexts = retriever.retrieve(question, top_k=4)
+    contexts = retriever.retrieve(question, top_k=5)
 
+    # Include source info for better grounding
     context_text = "\n\n".join(
-        f"- {c['text']}" for c in contexts
+        f"[Source: {c['source']}]\n{c['text']}" for c in contexts
     )
 
     prompt = build_prompt(context_text, question)
