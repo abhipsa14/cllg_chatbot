@@ -1,0 +1,41 @@
+[Unit]
+Description=UIT Voice Assistant — AI-powered college voice assistant
+Documentation=https://github.com/your-repo/cllg_chatbot
+After=network-online.target sound.target ollama.service
+Wants=network-online.target ollama.service
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+WorkingDirectory=/home/pi/cllg_chatbot
+Environment=HOME=/home/pi
+Environment=PATH=/home/pi/cllg_chatbot/venv/bin:/usr/local/bin:/usr/bin:/bin
+Environment=PYTHONUNBUFFERED=1
+Environment=OLLAMA_URL=http://localhost:11434/api/generate
+Environment=OLLAMA_MODEL=llama3.2
+
+# Load any .env overrides
+EnvironmentFile=-/home/pi/cllg_chatbot/.env
+
+# Start the assistant in daemon mode (headless, no GUI)
+ExecStart=/home/pi/cllg_chatbot/venv/bin/python /home/pi/cllg_chatbot/main.py --daemon
+
+# Auto-restart on failure
+Restart=always
+RestartSec=10
+
+# Give it time to initialize models
+TimeoutStartSec=120
+TimeoutStopSec=30
+
+# Logging to journalctl
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=uit-assistant
+
+# Audio access
+SupplementaryGroups=audio gpio i2c
+
+[Install]
+WantedBy=multi-user.target

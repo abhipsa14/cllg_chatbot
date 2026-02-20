@@ -1,0 +1,38 @@
+# ──────────────────────────────────────────────────────
+# ALSA Configuration for Raspberry Pi 4
+# USB Microphone (capture) + 3.5mm Headphone Jack (playback)
+#
+# Copy to ~/.asoundrc or /etc/asound.conf
+# ──────────────────────────────────────────────────────
+
+# Default playback device: 3.5mm headphone jack (card 0)
+pcm.!default {
+    type asym
+    playback.pcm "speaker"
+    capture.pcm "mic"
+}
+
+ctl.!default {
+    type hw
+    card 0
+}
+
+# Speaker output via headphone jack
+pcm.speaker {
+    type plug
+    slave {
+        pcm "hw:0,0"
+    }
+}
+
+# USB Microphone input
+# NOTE: If your USB mic is on a different card number,
+#       run 'arecord -l' to find it and update "hw:1,0" below.
+pcm.mic {
+    type plug
+    slave {
+        pcm "hw:1,0"
+        rate 16000
+        channels 1
+    }
+}

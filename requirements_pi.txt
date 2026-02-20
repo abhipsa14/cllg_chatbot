@@ -2,14 +2,15 @@
 pypdf
 requests
 beautifulsoup4
-python-docx         # .docx file parsing (for UIT Data Set.docx)
+python-docx
 
 # ──────── Text processing ────────
 regex
 
-# ──────── Embeddings ────────
+# ──────── Embeddings (Pi-optimized) ────────
+# NOTE: On Pi4, install torch separately first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
 sentence-transformers
-torch
 
 # ──────── Vector database ────────
 chromadb
@@ -18,13 +19,10 @@ chromadb
 requests
 
 # ──────── Voice Assistant ────────
-SpeechRecognition    # Microphone input → text (Google STT)
-PyAudio              # Audio I/O for SpeechRecognition
-pyttsx3              # Offline text-to-speech
-
-# ──────── System Tray App ────────
-pystray              # System tray icon & menu
-Pillow               # Icon rendering for tray
+SpeechRecognition
+# NOTE: PyAudio is installed via apt on Pi:
+#   sudo apt install python3-pyaudio
+pyttsx3
 
 # ──────── Utilities ────────
 tqdm
